@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  </head>
+  
+	<body>
+		 <a href="inicio.htm">Inicio</a>
+		 <a href="qsomos.htm">Qsomos</a>
+		 <a href="about.htm">Acerca del proyecto</a>
+		 <a href="contactenos.htm">Contactenos</a>
+
+	</body>
+
+</html>
+
